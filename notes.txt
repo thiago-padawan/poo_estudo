@@ -1,0 +1,16 @@
+VANTAGENS DA PROGRAMÇÃO ORIENTADA A OBJETO
+|C.O.M.E.R.N.ada
+
+|C-CONFIAVEL-O isolamento entre as partes gera software seguro
+             .Ao alterar uma parte, nenhuma outra é afetada.
+
+|O-OPORTUNO-Ao dividir tudo em partes,várias delas podem ser desenvolvidas em paralelo.
+
+|M-MANUTENIVEL-Utiliazar um software é mais facil.Uma pequena modificação
+               vai beneficar todas as partes que usarem o objeto.
+|E-EXTENCIVEL-O software não é estático.Ele deve crescer para se manter util.
+
+|REUTILIZAVEL-Podemos usar objetos de um sistema que criamos em outro sistema futuro.
+
+|N-NATURAL-Mais facil de enteder.Voce se preocupa mais na funcionalidade do que nos
+            detalhes de implementação.
